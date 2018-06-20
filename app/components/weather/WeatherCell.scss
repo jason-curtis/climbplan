@@ -1,0 +1,29 @@
+.span {
+    display: inline-block;
+    padding: 0px 3px;
+}
+
+.weatherIcon{
+  height: 90px;
+}
+
+%data {
+  width: 90px;
+  height: 24px;
+  font-size: 12px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  line-height: 24px;
+  text-align: center;
+  background-color: lightgrey;
+}
+
+.windspeed {
+  @extend %data;
+}
+
+.precip {
+  @extend %data;
+  overflow: scroll;
+   margin-top: -4px;
+}
