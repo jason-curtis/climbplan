@@ -16,7 +16,8 @@ This was mostly a weekend project that we Pull requests are welcome!
 
 ## Wishlist
 
-Ideas are tracked using the (issues page)[https://github.com/thatneat/climbplan/issues].
+Ideas are tracked using the [issues page](https://github.com/thatneat/climbplan/issues).
+
 
 ## Installing & Running
 
