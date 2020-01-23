@@ -1,6 +1,6 @@
 # Climbplan
 
-UI for a mountain climbing research/planning tool. Hosted at https://climbplan.com.
+UI for a mountain climbing research/planning tool. Hosted at http://climbplan.com.
 
 Features:
 * Search input landing page, which autofills peak and mountain names based on GeoNames database
